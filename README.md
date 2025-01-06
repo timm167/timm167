@@ -1,6 +1,10 @@
 # Hi, I'm Tim Charteris!
 
-I’m a Software Developer in training in full-stack development through the Learning People. I have over two years of professional work experience outside of Software Development and around 6 months of experience in Software Development. Currently, I am looking for work and actively improving my skills. My areas of expertise include **React**, **Python**, **JavaScript**, and **Flask**. Feel free to check out my Projects and reach out if you’re interested in discussing!
+I’m a Software Developer in training in full-stack development through the Learning People. 
+
+Currently, I am looking for work and actively improving my skills. My areas of expertise include **React**, **Python**, **JavaScript**, and **Flask**. Feel free to check out my Projects and reach out if you’re interested in discussing!
+
+Currently based in Newcastle.
 
 Request my CV for more details!
 
@@ -51,6 +55,8 @@ Here are some of my recent projects showcasing my work:
 ---
 
 ## 💼 Work History
+
+### I have over two years of professional work experience outside of Software Development and around 6 months of experience in Software Development. 
 
 ### Concilium Search - Tech Recruitment
 (Most of 2024)
