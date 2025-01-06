@@ -64,12 +64,6 @@ I'm actively looking for **full-time software development positions**. Feel free
 
 ---
 
-## 📈 GitHub Stats
-
-![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timm167&show_icons=true&hide_title=true)
-
----
-
 ## 📜 CV & Portfolio
 
 My **CV** and **portfolio** are regularly updated. Feel free to contact me for the latest versions or to discuss my work further!
