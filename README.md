@@ -1,5 +1,3 @@
-![Tim Charteris](https://avatars.githubusercontent.com/timm167)
-
 # Hi, I'm Tim Charteris!
 
 I’m a Software Developer in training in full-stack development through the Learning People.
