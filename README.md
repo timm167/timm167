@@ -4,7 +4,7 @@ I’m a Software Developer in training in full-stack development through the Lea
 
 Currently, I am looking for work and actively improving my skills. My areas of expertise include **React**, **Python**, **JavaScript**, and **Flask**. Feel free to check out my Projects and reach out if you’re interested in discussing!
 
-Currently based in Newcastle.
+Currently based in Newcastle Upon Tyne.
 
 Request my CV for more details!
 
