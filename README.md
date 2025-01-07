@@ -2,7 +2,7 @@
 
 I’m a Software Developer in training in full-stack development through the Learning People.
 
-**Currently, I am looking for work and actively improving my skills.** My areas of expertise include **React**, **Python**, **JavaScript**, and **Flask**. Feel free to check out my Projects and reach out [...]
+**Currently, I am looking for work and actively improving my skills.** My areas of expertise include **React**, **Python**, **JavaScript**, and **Flask**. Feel free to check out my Projects and reach out.
 
 **Currently based in Newcastle Upon Tyne.**
 
