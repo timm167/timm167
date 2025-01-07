@@ -32,7 +32,7 @@ Request my CV for more details!
 
 ## 🧱 Working on
 
-- Pokemon Database Query App
+- Pokemon Database Query App with SQLlite
 - Clean code for React Quiz App
 - Optimising Killer Sudoku App Recursion
 - Adding new features to Reddit Client
