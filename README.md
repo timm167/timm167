@@ -74,7 +74,7 @@ Here are some of my recent projects showcasing my work:
 
 ## 💼 Current Work & Open for Opportunities
 
-I'm actively looking for **full-time software development positions**. Feel free to reach out if you're company is interested in developers based in the North East.
+I'm actively looking for **full-time software development positions**. Feel free to reach out if your company is interested in developers based in the North East.
 
 ---
 
