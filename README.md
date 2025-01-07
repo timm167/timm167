@@ -37,6 +37,14 @@ Here are some of my recent projects showcasing my work:
    [GitHub Repo](https://github.com/timm167/reddit-client)
 
 ---
+## 🧱 Working on
+
+- Nutritional information finder
+- Spotify API request App
+- Pokemon Database Query App
+- Clean code for React App
+- Optimising Killer Sudoku App
+- Adding new features to Reddit Client
 
 ## 🎓 Education
 
