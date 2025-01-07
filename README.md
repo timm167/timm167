@@ -1,10 +1,12 @@
+![Tim Charteris](https://avatars.githubusercontent.com/timm167)
+
 # Hi, I'm Tim Charteris!
 
-I’m a Software Developer in training in full-stack development through the Learning People. 
+I’m a Software Developer in training in full-stack development through the Learning People.
 
-Currently, I am looking for work and actively improving my skills. My areas of expertise include **React**, **Python**, **JavaScript**, and **Flask**. Feel free to check out my Projects and reach out if you’re interested in discussing!
+**Currently, I am looking for work and actively improving my skills.** My areas of expertise include **React**, **Python**, **JavaScript**, and **Flask**. Feel free to check out my Projects and reach out [...]
 
-Currently based in Newcastle Upon Tyne.
+**Currently based in Newcastle Upon Tyne.**
 
 Request my CV for more details!
 
@@ -22,21 +24,14 @@ Request my CV for more details!
 
 ## 🚀 Latest Projects
 
-Here are some of my recent projects showcasing my work:
-
-1. **React Quiz App**  
-   A React-based quiz app that allows users to take quizzes with various features.  
-   [GitHub Repo](https://github.com/timm167/Quiz-App)
-
-2. **Killer Sudoku DFS Solver (Vanilla JS + Python/Flask)**  
-   A Sudoku solver built using Python and Flask on the backend, with a Vanilla JS frontend.  
-   [GitHub Repo](https://github.com/timm167/killer-sudoku)
-
-3. **Reddit Client (React + Redux)**  
-   A Reddit client built with React and Redux that fetches data from Reddit’s API.  
-   [GitHub Repo](https://github.com/timm167/reddit-client)
+| Project | Description | Link |
+|---------|-------------|------|
+| **React Quiz App** | A React-based quiz app with various features. | [GitHub Repo](https://github.com/timm167/Quiz-App) |
+| **Killer Sudoku DFS Solver** | A Sudoku solver using Python and Flask. | [GitHub Repo](https://github.com/timm167/killer-sudoku) |
+| **Reddit Client** | A Reddit client built with React and Redux. | [GitHub Repo](https://github.com/timm167/reddit-client) |
 
 ---
+
 ## 🧱 Working on
 
 - Nutritional information finder
@@ -45,6 +40,8 @@ Here are some of my recent projects showcasing my work:
 - Clean code for React App
 - Optimising Killer Sudoku App
 - Adding new features to Reddit Client
+
+---
 
 ## 🎓 Education
 
@@ -71,6 +68,8 @@ Here are some of my recent projects showcasing my work:
 
 ### Kene Partners - Strategy Consulting
 (2022 - 2024)
+
+---
 
 ## 💼 Current Work & Open for Opportunities
 
