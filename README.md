@@ -37,6 +37,7 @@ Request my CV for more details!
 - Adding new features to Reddit Client App
 - Creating unique 5x5 Tic-Tac-Toe app
 - Pokemon Database Query App with SQLlite
+- Portfolio website
 
 ---
 
