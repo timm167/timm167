@@ -32,11 +32,11 @@ Request my CV for more details!
 
 ## 🧱 Working on
 
+- Cleaning code for React Quiz App
+- Rebuilding Killer Sudoku App from scratch using React
+- Adding new features to Reddit Client App
+- Creating unique 5x5 Tic-Tac-Toe app
 - Pokemon Database Query App with SQLlite
-- Clean code for React Quiz App
-- Optimising Killer Sudoku App Recursion
-- Adding new features to Reddit Client
-- Creating unique Tic-Tac app
 
 ---
 
