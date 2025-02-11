@@ -22,21 +22,16 @@ Request my CV for more details!
 
 ## 🚀 Latest Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **React Quiz App** | A React-based quiz app with various features. | [GitHub Repo](https://github.com/timm167/Quiz-App) |
-| **Killer Sudoku DFS Solver** | A Sudoku solver using Python and Flask. | [GitHub Repo](https://github.com/timm167/killer-sudoku) |
-| **Reddit Client** | A Reddit client built with React and Redux. | [GitHub Repo](https://github.com/timm167/reddit-client) |
+| Project               | Description                                                            | Link                                                           |
+|-----------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
+| **LMS Project**        | Full Learning Management System with React frontend and Django backend.        | [GitHub Repo (Frontend)](https://github.com/timm167/lms-frontend-local), [GitHub Repo (Backend)](https://github.com/timm167/lms-backend) |
+| **React Quiz App**     | A React-based quiz app with various features.                          | [GitHub Repo](https://github.com/timm167/Quiz-App)             |
+| **Reddit Client**      | A Reddit client built with React and Redux.                            | [GitHub Repo](https://github.com/timm167/reddit-client)        |
 
 ---
-
 ## 🧱 Working on
 
-- Rebuilding Killer Sudoku App from scratch using React
-- Adding new features to Reddit Client App
-- Creating unique 5x5 Tic-Tac-Toe app
-- Pokemon Database Query App with SQLlite
-- Portfolio website
+- Rebuilding Killer Sudoku solver App from scratch using React and Python
 
 ---
 
