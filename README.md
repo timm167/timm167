@@ -47,7 +47,7 @@ Request my CV for more details!
 ### **University of Oxford** — *Bachelor of Arts (B.A.) in Philosophy, Politics, and Economics*  
 *Graduated 2022*  
 - Graduated with a **2:1**.
-- Specialized in **Logic**, **Ethics**, **Philosophy of Language**, **Sociology**, **Epistemology**, and **Metaphysics**.
+- Specialised in Logic, Ethics, Religious Philosophy, Linguistic Philosophy, Sociology, Epistemology, International Relations, and Metaphysics
 
 ---
 
