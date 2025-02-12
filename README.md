@@ -53,7 +53,7 @@ Request my CV for more details!
 
 ## 💼 Work History
 
-### I have over two years of professional work experience outside of Software Development and around 6 months of experience in Software Development. 
+### I have over two years of professional work experience outside of Software Development. Request CV for details.
 
 ### Concilium Search - Tech Recruitment
 (Most of 2024)
